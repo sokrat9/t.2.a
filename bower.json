@@ -1,0 +1,36 @@
+{
+  "name": "sort-numbers",
+  "description": "Sort numbers in ascending or descending order",
+  "keywords": [
+    "number",
+    "array",
+    "sort",
+    "order",
+    "ascending",
+    "asc",
+    "descending",
+    "desc"
+  ],
+  "main": "dist/sort-numbers.js",
+  "homepage": "https://github.com/shinnn/sort-numbers.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/shinnn/sort-numbers.js.git"
+  },
+  "authors": [
+    {
+      "name": "Shinnosuke Watanabe",
+      "url": "https://github.com/shinnn"
+    }
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "*.js",
+    "*.yml",
+    "components",
+    "dist/sort-numbers-cjs.js",
+    "node_modules",
+    "src"
+  ]
+}
